@@ -17,7 +17,4 @@ run_analysis.R - The script performing the analysis on the raw data as described
 CodeBook.md - Describes the final tidy independent data set, the various variables it contains and the transformations applied to the raw data in the process.
 
 README.md - The file you are reading.
-<<<<<<< HEAD
-=======
 
->>>>>>> 282ed35ad3f1d05cd96b4086f3594012c58e4852
