@@ -18,3 +18,7 @@ CodeBook.md - Describes the final tidy independent data set, the various variabl
 
 README.md - The file you are reading.
 
+The following file is contains the summarized data produced by the R script. This file is produced in the working directory and is not in the repository.
+
+ - HumaActivityRecognitionSummaryDataSet.txt
+

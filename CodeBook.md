@@ -10,6 +10,8 @@ The raw data set contained a 561-feature vector. The final summary data set cont
 5. Replaced activity number with activity label.
 6. Summarized the data set to contain only mean of the feature variables for each subject and activity.
  
+The summarized data produced by the R script is in the file HumanActivityRecognitionSummaryDataSet.txt. This file is produced in the working directory and is in table format and can be read using R function 'read.table' and contains a header line.
+
 The summary data set variable names are self descriptive. The list is given below:
 
 subjectId      - Identifier for the human subject, range 1-30
