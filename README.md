@@ -12,13 +12,13 @@ The final data set uploaded as part of the assignment summarizes the means of th
 
 The repository contains the following files:
 
-run_analysis.R - The script performing the analysis on the raw data as described above. It should be copied to the working directory containing the Samsung raw data.
+- run_analysis.R - The script performing the analysis on the raw data as described above. It should be copied to the working directory containing the Samsung raw data.
 
-CodeBook.md - Describes the final tidy independent data set, the various variables it contains and the transformations applied to the raw data in the process.
+- CodeBook.md - Describes the final tidy independent data set, the various variables it contains and the transformations applied to the raw data in the process.
 
-README.md - The file you are reading.
+- README.md - The file you are reading.
 
 The following file is contains the summarized data produced by the R script. This file is produced in the working directory and is not in the repository.
 
- - HumaActivityRecognitionSummaryDataSet.txt
+- HumaActivityRecognitionSummaryDataSet.txt
 
